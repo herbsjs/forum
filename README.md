@@ -128,6 +128,9 @@ Behave professionally. Participants who violate these rules will be asked to wit
 
 ## How to receive Forum updates
 
-You can receive updates from the Forum in your email or via GitHub notifications, just click ** Watch **, then just go to ** Custom ** and check the ** Discussions ** option.
+You can receive updates from the Forum in your email or via GitHub notifications, just click **Watch**, then just go to **Custom** and check the **Discussions** option.
 
-![Menu showing how to check to enable option to watch notifications](assets/watch.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/herbsjs/forum/main/assets/watch.png" alt="Menu showing how to check to enable option to watch notifications" />
+</p>
+
