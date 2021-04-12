@@ -66,7 +66,7 @@ An essential skill for developers is knowing how to do good research. Many begin
 
 4. Give preference to results from official documentation and specialized forums, example:
   * [HerbsJS Documentation](https://herbsjs.org)
-  * [StackOverflow] (https://stackoverflow.com/)
+  * [StackOverflow](https://stackoverflow.com/)
 
 ### Other points
 
