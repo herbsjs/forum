@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://herbsjs.org/img/logo-herbsjs.png" width="400" alt="HerbsJS">
 </p>
-<h1 align="center">Fórum</h1>
+<h1 align="center">Forum</h1>
 
 > **Disclaimer:** _The opinions published here are the sole responsibility of their authors and do not necessarily reflect the position of the organization._
 
