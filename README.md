@@ -96,7 +96,7 @@ Discussions are always welcome, when formulating a discussion, try to be as dire
 
 ### General
 
-If your post does not fit into any of the above categories, no problem. As long as it deals with Front End, we will be willing to discuss and help. And you can open it with the [discussion category](https://github.com/herbsjs/forum/discussions/categories/general).
+If your post does not fit into any of the above categories, no problem. As long as it deals with herbsjs or related subject, we will be willing to discuss and help. And you can open it with the [discussion category](https://github.com/herbsjs/forum/discussions/categories/general).
 
 ## Was your question answered?
 
